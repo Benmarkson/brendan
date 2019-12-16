@@ -1,3 +1,5 @@
+FonyuyBrenda.R is used for the analysis of the data. 
+the script is just executed as a whole and results are given at the end, with a file called Tidy.txt which contains tidy data already
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 This repository is a Nunno Nugroho submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 Dataset
